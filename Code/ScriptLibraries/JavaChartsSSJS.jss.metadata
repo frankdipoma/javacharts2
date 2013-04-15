@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="filter" maintenanceversion="3.0" replicaid="652579B2001FDC27" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1ba" sequence="14" unid="F9BC878C951365CE652578F8001D5CCF">
+<created><datetime>20110826T105043,03+0530</datetime></created>
+<modified><datetime dst="true">20120713T115056,71-07</datetime></modified>
+<revised><datetime dst="true">20120713T115056,70-07</datetime></revised>
+<lastaccessed><datetime dst="true">20120713T115056,71-07</datetime></lastaccessed>
+<addedtofile><datetime>20120228T111801,03+0530</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Naveen/O=Naveen</name><name>CN=Garth Thomas_Con/O=Westfield_US02</name></updatedby>
+<wassignedby><name>CN=Garth Thomas_Con/O=Westfield_US02</name></wassignedby>
+<item name="$TITLE" sign="true"><text>JavaChartsSSJS</text></item>
+<item name="$Flags"><text>.5834Q</text></item>
+<item name="$PublicAccess" sign="true"><text>1</text></item>
+</note>
